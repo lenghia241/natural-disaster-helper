@@ -1,3 +1,3 @@
 Natural Disaster Appication
 
-Application to help people when natural disaster happen.
+Mobile application created by React Native to help people when natural disaster happen.
